@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2025-08-21T08:10:04.301Z",
+    "end": "2025-08-21T08:10:04.304Z",
+    "duration": 3
+  },
+  "tests": [
+    {
+      "title": "has been correctly cloned to your local environment",
+      "fullTitle": "This assignment has been correctly cloned to your local environment",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a file named myfile.md",
+      "fullTitle": "This assignment has a file named myfile.md",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has been correctly cloned to your local environment",
+      "fullTitle": "This assignment has been correctly cloned to your local environment",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a file named myfile.md",
+      "fullTitle": "This assignment has a file named myfile.md",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
